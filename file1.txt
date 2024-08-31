@@ -2,4 +2,4 @@ hello
 git
 merging
 cloning
-
+updating  file using VSC
