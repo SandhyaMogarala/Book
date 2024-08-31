@@ -1,3 +1,5 @@
-hellr
+hello
 git
 merging
+cloning
+
